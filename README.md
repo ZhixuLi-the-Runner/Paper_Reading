@@ -7,3 +7,6 @@ https://docs.google.com/presentation/d/1EYIVPtjnWzbbI0jjb3qGOfc600i_evoaDX3t86V0
 FSE: https://docs.google.com/document/d/1Z4BeYKYHYfVq0mRLv1Vq0BND0Gw-BRvk22iKBghzR2M/edit?usp=sharing
 
 ICSE: https://docs.google.com/document/d/1Ge5Z3UnTR4f6osyNenl90N2drxvxz0haeSQIffCyJV4/edit?usp=sharing
+
+## Comments
+Comments are written in paper files(pdf)
