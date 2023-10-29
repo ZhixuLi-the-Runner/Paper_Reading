@@ -1,0 +1,8 @@
+#13 Running rst part 1:
+
+Workload,APPonly,OSonly,CrossP[+fetchall+opt],CrossP[+predict],CrossP[+predict+opt]
+ycsbwklda,70188,57364,87038,68614,115063
+ycsbwkldb,424051,369552,560628,490031,577932
+ycsbwkldc,773913,725987,926182,671314,637812
+ycsbwkldd,485496,390988,733287,540657,683948
+ycsbwklde,6995,9837,18381,14535,24292
