@@ -6,3 +6,11 @@ ycsbwkldb,424051,369552,560628,490031,577932
 ycsbwkldc,773913,725987,926182,671314,637812
 ycsbwkldd,485496,390988,733287,540657,683948
 ycsbwklde,6995,9837,18381,14535,24292
+
+#13 Runnning rst part 2:
+cat RESULT.csv
+Workload,APPonly,OSonly,CrossP[+fetchall+opt],CrossP[+predict],CrossP[+predict+opt]
+multireadrandom
+readreverse
+readseq,9379,18760,15121,16428,15036
+readwhilescanning
