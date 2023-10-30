@@ -39,3 +39,15 @@ threads,APPonly,OSonly,CrossP[+predict+opt],CrossP[+fetchall+opt]
 1255,1197,889,2584
 
 
+Running Snapy
+cat RESULT.csv
+-----------------------
+Table for shared access
+-----------------------
+threads,APPonly,OSonly,CrossP[+predict+opt],CrossP[+fetchall+opt]
+1739,1718,1611,5874
+1715,1707,1730,4306
+1356,1631,1158,2753
+885,1629,1507,3488
+
+
