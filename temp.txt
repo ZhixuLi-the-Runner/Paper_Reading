@@ -26,3 +26,16 @@ Table for read_shared_mmap_seq
 -----------------------
 APPonly,OSonly,CrossP[+predict+opt]
 5595,5454,16087
+
+#13 Runnning rst part 4(shared_files):
+cat RESULT.csv
+-----------------------
+Table for shared access
+-----------------------
+threads,APPonly,OSonly,CrossP[+predict+opt],CrossP[+fetchall+opt]
+1708,1698,1732,6043
+1376,1377,1712,3656
+1337,1462,894,3950
+1255,1197,889,2584
+
+
